@@ -1,0 +1,255 @@
+﻿agent_greek,agent_latin,agent_type,action,target_greek,target_latin,target_type,book_line,book,line,weapon,specifics
+Antilokhos,Antilochus,Greek,kills,Ekhepolos,Echepolus,Trojan,4.529,4,529,spear,spear in the head
+Agenor,Agenor,Trojan,kills,Elephenor,Elephenor,Greek,4.543,4,543,spear,spear in the side
+Aias1,Ajax1,Greek,kills,Simoeisios,Simoeisius,Trojan,4.549,4,549,spear,speared in the nipple
+Antiphos,Antiphus,Trojan,kills,Leukos,Leucus,Greek,4.569,4,569,spear,speared in the groin
+Odysseus,Odysseus,Greek,kills,Demokoon,Democoon,Trojan,4.579,4,579,spear,spear through the head
+Peiroos,Peirous,Trojan,kills,Diores,Diores,Greek,4.598,4,598,"rock, spear","hit with a rock, then speared in the gut"
+Thoas,Thoas,Greek,kills,Peiroos,Peirous,Trojan,4.608,4,608,spear,"spear in the chest, sword in the gut"
+Diomedes,Diomedes,Greek,kills,Phegeus,Phegeus,Trojan,5.19,5,19,spear,spear in the chest
+Agamemnon,Agamemnon,Greek,kills,Odios,Odius,Trojan,5.42,5,42,spear,spear in the back
+Idomeneus,Idomeneus,Greek,kills,Phaistos,Phaestus,Trojan,5.48,5,48,spear,spear in the shoulder
+Menelaos,Menelaus,Greek,kills,Skamandrios,Scamandrius,Trojan,5.54,5,54,spear,spear in the back
+Meriones,Meriones,Greek,kills,Phereklos,Phereclus,Trojan,5.66,5,66,spear,spear in the buttock
+Meges,Meges,Greek,kills,Pedaios,Pedaeus,Trojan,5.78,5,78,spear,spear in the neck
+Eurypylos,Eurypylus,Greek,kills,Hypsenor,Hypsenor,Trojan,5.86,5,86,sword,arm cut off
+Diomedes,Diomedes,Greek,kills,Astynoos,Astynous,Trojan,5.164,5,164,spear,spear in the chest
+Diomedes,Diomedes,Greek,kills,Hypeiron,Hypeiron,Trojan,5.165,5,165,sword,sword in the collar bone
+Diomedes,Diomedes,Greek,kills,Abas,Abas,Trojan,5.170,5,170,,
+Diomedes,Diomedes,Greek,kills,Polyeidos,Polyidus,Trojan,5.170,5,170,,
+Diomedes,Diomedes,Greek,kills,Xanthos,Xanthus,Trojan,5.174,5,174,,
+Diomedes,Diomedes,Greek,kills,Thoon,Thoon,Trojan,5.174,5,174,,
+Diomedes,Diomedes,Greek,kills,Ekhemmon,Echemmon,Trojan,5.182,5,182,,
+Diomedes,Diomedes,Greek,kills,Khromios,Chromius,Trojan,5.182,5,182,,
+Diomedes,Diomedes,Greek,kills,Pandaros,Pandarus,Trojan,5.346,5,346,spear,spear in the nose
+Diomedes,Diomedes,Greek,wounds,Aineias,Aeneas,Trojan,5.359,5,359,rock,with a rock
+Agamemnon,Agamemnon,Greek,kills,Deikoon,Deicoon,Trojan,5.630,5,630,spear,spear in the stomach
+Aineias,Aeneas,Trojan,kills,Krethon,Crethon,Greek,5.640,5,640,,
+Aineias,Aeneas,Trojan,kills,Orsilokhos,Orsilochus,Greek,5.640,5,640,,
+Menelaos,Menelaus,Greek,kills,Pylaimenes,Pylaemenes,Trojan,5.675,5,675,spear,spear in the collar bone
+Antilokhos,Antilochus,Greek,kills,Mydon,Mydon,Trojan,5.680,5,680,sword,"sword in the head, stomped by his horses"
+Hektor,Hector,Trojan,kills,Menesthes,Menesthes,Greek,5.714,5,714,,
+Hektor,Hector,Trojan,kills,Ankhialos,Anchialus,Greek,5.714,5,714,,
+Aias1,Ajax1,Greek,kills,Amphion,Amphion,Trojan,5.717,5,717,spear,spear in the gut
+Sarpedon,Sarpedon,Trojan,kills,Tlepolemos,Tlepolemus,Greek,5.764,5,764,spear,spear in the neck
+Tlepolemos,Tlepolemus,Greek,wounds,Sarpedon,Sarpedon,Trojan,5.764,5,764,spear,spear in the thigh
+Odysseus,Odysseus,Greek,kills,Koiranos,Coeranus,Trojan,5.783,5,783,,
+Odysseus,Odysseus,Greek,kills,Alastor,Alastor,Trojan,5.783,5,783,,
+Odysseus,Odysseus,Greek,kills,Khromios,Chromius,Trojan,5.783,5,783,,
+Odysseus,Odysseus,Greek,kills,Alkandros,Alcandrus,Trojan,5.784,5,784,,
+Odysseus,Odysseus,Greek,kills,Halios,Halius,Trojan,5.784,5,784,,
+Odysseus,Odysseus,Greek,kills,Noemon,Noemon,Trojan,5.784,5,784,,
+Odysseus,Odysseus,Greek,kills,Prytanis,Prytanis,Trojan,5.784,5,784,,
+Hektor,Hector,Trojan,kills,Teuthras,Teuthras,Greek,5.811,5,811,,
+Hektor,Hector,Trojan,kills,Orestes,Orestes,Greek,5.811,5,811,,
+Hektor,Hector,Trojan,kills,Trekhos,Trechus,Greek,5.812,5,812,,
+Hektor,Hector,Trojan,kills,Oinomaos,Oenomaus,Greek,5.812,5,812,,
+Hektor,Hector,Trojan,kills,Helenos,Helenus,Greek,5.813,5,813,,
+Hektor,Hector,Trojan,kills,Oresbios,Oresbius,Greek,5.813,5,813,,
+Ares,Ares,Trojan,kills,Periphas,Periphas,Greek,5.970,5,970,,
+Diomedes,Diomedes,Greek,wounds,Ares,Ares,Trojan,5.980,5,980,spear,in the gut
+Aias1,Ajax1,Greek,kills,Akamas,Acamas,Trojan,6.9,6,9,spear,spear in the head
+Diomedes,Diomedes,Greek,kills,Axylos,Axylus,Trojan,6.14,6,14,,
+Diomedes,Diomedes,Greek,kills,Kalesios,Calesius,Trojan,6.20,6,20,,
+Euryalos,Euryalus,Greek,kills,Dresos,Dresus,Trojan,6.23,6,23,,
+Euryalos,Euryalus,Greek,kills,Opheltios,Opheltius,Trojan,6.23,6,23,,
+Euryalos,Euryalus,Greek,kills,Aisepos,Aesepus,Trojan,6.24,6,24,,
+Euryalos,Euryalus,Greek,kills,Pedasos,Pedasus,Trojan,6.24,6,24,,
+Polypoites,Polypoetes,Greek,kills,Astyalos,Astyalus,Trojan,6.33,6,33,,
+Odysseus,Odysseus,Greek,kills,Pidytes,Pidytes,Trojan,6.34,6,34,spear,with his spear
+Teukros,Teucer,Greek,kills,Aretaon,Aretaon,Trojan,6.35,6,35,,
+Antilokhos,Antilochus,Greek,kills,Ableros,Ablerus,Trojan,6.35,6,35,spear,with his spear
+Agamemnon,Agamemnon,Greek,kills,Elatos,Elatus,Trojan,6.38,6,38,,
+Leitos,Leitus,Greek,kills,Phylakos,Phylacus,Trojan,6.41,6,41,,
+Eurypylos,Eurypylus,Greek,kills,Melanthios,Melanthius,Trojan,6.42,6,42,,
+Agamemnon,Agamemnon,Greek,kills,Adrestos,Adrestus,Trojan,6.76,6,76,spear,spear in the side
+Paris,Paris,Trojan,kills,Menesthios,Menesthius,Greek,7.8,7,8,,
+Hektor,Hector,Trojan,kills,Eioneus,Eioneus,Greek,7.11,7,11,spear,spear in the neck
+Glaukos,Glaucus,Trojan,kills,Iphinoos,Iphinous,Greek,7.13,7,13,spear,spear in the shoulder
+Diomedes,Diomedes,Greek,kills,Eniopeus,Eniopeus,Trojan,8.138,8,138,spear,spear in the chest
+Diomedes,Diomedes,Greek,kills,Agelaos,Agelaus,Trojan,8.300,8,300,spear,spear in the back
+Teukros,Teucer,Greek,kills,Orsilokhos,Orsilochus,Trojan,8.321,8,321,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Ormenos,Ormenus,Trojan,8.321,8,321,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Ophelestes,Ophelestes,Trojan,8.321,8,321,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Daitor,Daetor,Trojan,8.322,8,322,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Khromios,Chromius,Trojan,8.322,8,322,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Lykophontes,Lycophontes,Trojan,8.322,8,322,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Amopaon,Amopaon,Trojan,8.323,8,323,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Melanippos,Melanippus,Trojan,8.323,8,323,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Gorgythion,Gorgythion,Trojan,8.353,8,353,arrow,with an arrow
+Teukros,Teucer,Greek,kills,Arkheptolemos,Archeptolemus,Trojan,8.363,8,363,arrow,with an arrow
+Hektor,Hector,Trojan,wounds,Teukros,Teucer,Greek,8.380,8,380,rock,with a rock
+Agamemnon,Agamemnon,Greek,kills,Bianor,Bianor,Trojan,11.99,11,99,,
+Agamemnon,Agamemnon,Greek,kills,Oileus,Oileus,Trojan,11.103,11,103,spear,"spear in the head,"
+Agamemnon,Agamemnon,Greek,kills,Isos,Isus,Trojan,11.109,11,109,spear,spear in the chest
+Agamemnon,Agamemnon,Greek,kills,Antiphos,Antiphus,Trojan,11.120,11,120,sword,sword in the head
+Agamemnon,Agamemnon,Greek,kills,Peisandros,Peisander,Trojan,11.160,11,160,spear,spear in the chest
+Agamemnon,Agamemnon,Greek,kills,Hippolokhos,Hippolochus,Trojan,11.165,11,165,sword,sword cuts off his head
+Agamemnon,Agamemnon,Greek,kills,Iphidamas,Iphidamas,Trojan,11.270,11,270,sword,sword in the neck
+Koon,Coon,Trojan,wounds,Agamemnon,Agamemnon,Greek,11.288,11,288,spear,spear in the arm
+Agamemnon,Agamemnon,Greek,kills,Koon,Coon,Trojan,11.295,11,295,spear,spear in the side
+Hektor,Hector,Trojan,kills,Asaios,Asaeus,Greek,11.341,11,341,,
+Hektor,Hector,Trojan,kills,Autonoos,Autonous,Greek,11.341,11,341,,
+Hektor,Hector,Trojan,kills,Opites,Opites,Greek,11.341,11,341,,
+Hektor,Hector,Trojan,kills,Dolops,Dolops,Greek,11.342,11,342,,
+Hektor,Hector,Trojan,kills,Opheltios,Opheltius,Greek,11.324,11,324,,
+Hektor,Hector,Trojan,kills,Agelaos,Agelaus,Greek,11.325,11,325,,
+Hektor,Hector,Trojan,kills,Aisymnos,Aesymnus,Greek,11.325,11,325,,
+Hektor,Hector,Trojan,kills,Oros,Orus,Greek,11.343,11,343,,
+Hektor,Hector,Trojan,kills,Hipponoos,Hipponous,Greek,11.325,11,325,,
+Diomedes,Diomedes,Greek,kills,Thymbraios,Thymbraeus,Trojan,11.364,11,364,spear,spear in the chest
+Odysseus,Odysseus,Greek,kills,Molion,Molion,Trojan,11.366,11,366,,
+Diomedes,Diomedes,Greek,kills,Adrestos,Adrestus,Trojan,11.375,11,375,,
+Diomedes,Diomedes,Greek,kills,Amphios,Amphius,Trojan,11.375,11,375,,
+Odysseus,Odysseus,Greek,kills,Hippodamas,Hippodamas,Trojan,11.381,11,381,,
+Odysseus,Odysseus,Greek,kills,Hypeirokhos,Hypeirochus,Trojan,11.381,11,381,,
+Diomedes,Diomedes,Greek,kills,Agastrophos,Agastrophus,Trojan,11.384,11,384,spear,spear in the hip
+Paris,Paris,Trojan,wounds,Diomedes,Diomedes,Greek,11.430,11,430,arrow,arrow in the foot
+Odysseus,Odysseus,Greek,kills,Deiopites,Deiopites,Trojan,11.479,11,479,,
+Odysseus,Odysseus,Greek,kills,Thoon,Thoon,Trojan,11.481,11,481,,
+Odysseus,Odysseus,Greek,kills,Ennomos,Ennomus,Trojan,11.481,11,481,,
+Odysseus,Odysseus,Greek,kills,Khersidamas,Chersidamas,Trojan,11.481,11,481,spear,spear in the groin
+Odysseus,Odysseus,Greek,kills,Kharops,Charops,Trojan,11.485,11,485,,
+Odysseus,Odysseus,Greek,kills,Sokos,Socus,Trojan,11.506,11,506,spear,spear in the back
+Sokos,Socus,Trojan,wounds,Odysseus,Odysseus,Greek,11.493,11,493,spear,spear in the ribs
+Aias1,Ajax1,Greek,kills,Doryklos,Doryclus,Trojan,11.552,11,552,,
+Aias1,Ajax1,Greek,kills,Pandokos,Pandocus,Trojan,11.553,11,553,,
+Aias1,Ajax1,Greek,kills,Lysander,Lysander,Trojan,11.554,11,554,,
+Aias1,Ajax1,Greek,kills,Pyrasos,Pyrasus,Trojan,11.554,11,554,,
+Aias1,Ajax1,Greek,kills,Pylartes,Pylartes,Trojan,11.554,11,554,,
+Paris,Paris,Trojan,wounds,Makhaon,Machaon,Greek,11.572,11,572,arrow,arrow in right shoulder
+Eurypylos,Eurypylus,Greek,kills,Apisaon,Apisaon,Trojan,11.650,11,650,spear,spear in the liver
+Paris,Paris,Trojan,wounds,Eurypylos,Eurypylus,Greek,11.657,11,657,arrow,arrow in right thigh
+Polypoites,Polypoetes,Greek,kills,Damasos,Damasus,Trojan,12.190,12,190,spear,spear through the cheek
+Polypoites,Polypoetes,Greek,kills,Pylon,Pylon,Trojan,12.194,12,194,,
+Polypoites,Polypoetes,Greek,kills,Ormenos,Ormenus,Trojan,12.194,12,194,,
+Leonteus,Leonteus,Greek,kills,Hippomakhos,Hippomachus,Trojan,12.196,12,196,spear,spear in the stomach
+Leonteus,Leonteus,Greek,kills,Antiphates,Antiphates,Trojan,12.198,12,198,sword,struck with a sword
+Leonteus,Leonteus,Greek,kills,Menon,Menon,Trojan,12.201,12,201,,
+Leonteus,Leonteus,Greek,kills,Iamenos,Iamenus,Trojan,12.201,12,201,,
+Leonteus,Leonteus,Greek,kills,Orestes,Orestes,Trojan,12.201,12,201,,
+Aias1,Ajax1,Greek,kills,Epikles,Epicles,Trojan,12.416,12,416,rock,rock in the skull
+Teukros,Teucer,Greek,wounds,Glaukos,Glaucus,Trojan,12.425,12,425,arrow,arrow in the arm
+Sarpedon,Sarpedon,Trojan,kills,Alkmaon,Alcmaon,Greek,12.434,12,434,spear,spear in the body
+Teukros,Teucer,Greek,kills,Imbrios,Imbrius,Trojan,13.198,13,198,spear,spear in the ear
+Hektor,Hector,Trojan,kills,Amphimakhos,Amphimachus,Greek,13.227,13,227,spear,spear in the chest
+Idomeneus,Idomeneus,Greek,kills,Othryoneus,Othryoneus,Trojan,13.439,13,439,spear,"spear in the gut,"
+Idomeneus,Idomeneus,Greek,kills,Asios,Asius,Trojan,13.472,13,472,spear,spear in the neck
+Antilokhos,Antilochus,Greek,kills,Charioteer Asios,Charioteer Asius,Trojan,13.482,13,482,spear,spear in the gut
+Deiphobos,Deiphobus,Trojan,kills,Hypsenor,Hypsenor,Greek,13.488,13,488,spear,spear in the liver
+Idomeneus,Idomeneus,Greek,kills,Alkathoos,Alcathous,Trojan,13.514,13,514,spear,spear in the chest
+Idomeneus,Idomeneus,Greek,kills,Oinomaos,Oenomaus,Trojan,13.608,13,608,spear,spear in the stomach
+Deiphobos,Deiphobus,Trojan,kills,Askalaphos,Ascalaphus,Greek,13.621,13,621,spear,spear in the shoulder
+Meriones,Meriones,Greek,wounds,Deiphobos,Deiphobus,Trojan,13.634,13,634,spear,spear in the arm
+Aineias,Aeneas,Trojan,kills,Aphareus,Aphareus,Greek,13.647,13,647,spear,spear in the throat
+Antilokhos,Antilochus,Greek,kills,Thoon,Thoon,Trojan,13.652,13,652,spear,spear in the back
+Meriones,Meriones,Greek,kills,Adamas,Adamas,Trojan,13.677,13,677,spear,spear in the testicles
+Helenos,Helenus,Trojan,kills,Deipyros,Deipyrus,Greek,13.687,13,687,sword,sword on the head
+Menelaos,Menelaus,Greek,wounds,Helenos,Helenus,Trojan,13.705,13,705,spear,spear in the hand
+Menelaos,Menelaus,Greek,kills,Peisandros,Peisander,Trojan,13.731,13,731,sword,sword in the head
+Meriones,Meriones,Greek,kills,Harpalion,Harpalion,Trojan,13.776,13,776,arrow,arrow in the buttock
+Paris,Paris,Trojan,kills,Eukhenor,Euchenor,Greek,13.800,13,800,arrow,arrow in the jaw
+Aias1,Ajax1,Greek,wounds,Hektor,Hector,Trojan,14.477,14,477,rock,with a rock
+Aias2,Ajax2,Greek,kills,Satnios,Satnius,Trojan,14.517,14,517,spear,spear in the side
+Poulydamas,Polydamas,Trojan,kills,Prothoenor,Prothoenor,Greek,14.525,14,525,spear,spear in the shoulder
+Aias1,Ajax1,Greek,kills,Arkhelokhos,Archelochus,Trojan,14.540,14,540,spear,spear in the neck
+Akamas,Acamas,Trojan,kills,Promakhos,Promachus,Greek,14.555,14,555,spear,spear
+Peneleos,Peneleos,Greek,kills,Ilioneus,Ilioneus,Trojan,14.570,14,570,spear,spear in the eye
+Aias1,Ajax1,Greek,kills,Hyrtios,Hyrtius,Trojan,14.597,14,597,,
+Meriones,Meriones,Greek,kills,Morys,Morys,Trojan,14.601,14,601,,
+Meriones,Meriones,Greek,kills,Hippotion,Hippotion,Trojan,14.601,14,601,,
+Teukros,Teucer,Greek,kills,Prothoon,Prothoon,Trojan,14.602,14,602,,
+Teukros,Teucer,Greek,kills,Periphetes,Periphetes,Trojan,14.602,14,602,,
+Menelaos,Menelaus,Greek,kills,Hyperenor,Hyperenor,Trojan,14.603,14,603,spear,spear in the side
+Antilokhos,Antilochus,Greek,kills,Phalkes,Phalces,Trojan,14.600,14,600,,death not mentioned but armor stripped
+Antilokhos,Antilochus,Greek,kills,Mermeros,Mermerus,Trojan,14.600,14,600,,death not mentioned but armor stripped
+Hektor,Hector,Trojan,kills,Stikhios,Stichius,Greek,15.389,15,389,,
+Hektor,Hector,Trojan,kills,Arkesilaos,Arcesilaus,Greek,15.389,15,389,,
+Aineias,Aeneas,Trojan,kills,Medon,Medon,Greek,15.392,15,392,,
+Aineias,Aeneas,Trojan,kills,Iasos,Iasus,Greek,15.392,15,392,,
+Poulydamas,Polydamas,Trojan,kills,Mekisteus,Mecisteus,Greek,15.399,15,399,,
+Polites,Polites,Trojan,kills,Ekhios,Echius,Greek,15.400,15,400,,
+Agenor,Agenor,Trojan,kills,Klonios,Clonius,Greek,15.401,15,401,,
+Paris,Paris,Trojan,kills,Deiokhos,Deiochus,Greek,15.402,15,402,spear,spear through the back
+Aias1,Ajax1,Greek,kills,Kaletor,Caletor,Trojan,15.491,15,491,spear,spear in the chest
+Hektor,Hector,Trojan,kills,Lykophron,Lycophron,Greek,15.503,15,503,spear,spear in the head
+Teukros,Teucer,Greek,kills,Kleitos,Cleitus,Trojan,15.521,15,521,arrow,arrow in the back of the neck
+Hektor,Hector,Trojan,kills,Skhedios,Schedius,Greek,15.607,15,607,,
+Aias1,Ajax1,Greek,kills,Laodamas,Laodamas,Trojan,15.608,15,608,,
+Poulydamas,Polydamas,Trojan,kills,Otos,Otus,Greek,15.610,15,610,,
+Meges,Meges,Greek,kills,Kroismos,Croesmus,Trojan,15.616,15,616,spear,spear in the chest
+Menelaos,Menelaus,Greek,kills,Dolops,Dolops,Trojan,15.636,15,636,spear,speared in the back
+Antilokhos,Antilochus,Greek,kills,Melanippos,Melanippus,Trojan,15.675,15,675,spear,spear in the chest
+Hektor,Hector,Trojan,kills,Periphetes,Periphetes,Greek,15.744,15,744,spear,spear in the chest
+Patroklos,Patroclus,Greek,kills,Pyraikhmes,Pyraechmes,Trojan,16.339,16,339,spear,spear in the shoulder
+Patroklos,Patroclus,Greek,kills,Areilykos,Areilycus,Trojan,16.361,16,361,spear,spear in the thigh
+Menelaos,Menelaus,Greek,kills,Thoas,Thoas,Trojan,16.365,16,365,spear,spear in the chest
+Meges,Meges,Greek,kills,Amphiklos,Amphiclus,Trojan,16.367,16,367,spear,spear in the leg
+Antilokhos,Antilochus,Greek,kills,Atymnios,Atymnius,Trojan,16.372,16,372,spear,spear in the side
+Thrasymedes,Thrasymedes,Greek,kills,Maris,Maris,Trojan,16.377,16,377,spear,spear in the shoulder
+Aias2,Ajax2,Greek,kills,Kleoboulos,Cleobulus,Trojan,16.386,16,386,sword,sword in the neck
+Peneleos,Peneleos,Greek,kills,Lykon,Lyco,Trojan,16.395,16,395,sword,sword in the neck
+Meriones,Meriones,Greek,kills,Akamas,Acamas,Trojan,16.399,16,399,spear,spear in the shoulder
+Idomeneus,Idomeneus,Greek,kills,Erymas,Erymas,Trojan,16.403,16,403,spear,spear in the mouth
+Patroklos,Patroclus,Greek,kills,Pronoos,Pronous,Trojan,16.464,16,464,spear,spear in the chest
+Patroklos,Patroclus,Greek,kills,Thestor,Thestor,Trojan,16.477,16,477,spear,spear in the head
+Patroklos,Patroclus,Greek,kills,Erylaos,Erylaus,Trojan,16.479,16,479,rock,rock on the head
+Patroklos,Patroclus,Greek,kills,Erymas,Erymas,Trojan,16.484,16,484,,
+Patroklos,Patroclus,Greek,kills,Amphoteros,Amphoterus,Trojan,16.484,16,484,,
+Patroklos,Patroclus,Greek,kills,Epaltes,Epaltes,Trojan,16.484,16,484,,
+Patroklos,Patroclus,Greek,kills,Tlepolemos,Tlepolemus,Trojan,16.485,16,485,,
+Patroklos,Patroclus,Greek,kills,Ekhios,Echius,Trojan,16.485,16,485,,
+Patroklos,Patroclus,Greek,kills,Pyris,Pyris,Trojan,16.486,16,486,,
+Patroklos,Patroclus,Greek,kills,Ipheus,Ipheus,Trojan,16.486,16,486,,
+Patroklos,Patroclus,Greek,kills,Euippos,Euippus,Trojan,16.486,16,486,,
+Patroklos,Patroclus,Greek,kills,Polymelos,Polymelus,Trojan,16.486,16,486,,
+Patroklos,Patroclus,Greek,kills,Thrasymedes,Thrasymedes,Trojan,16.542,16,542,spear,spear in the gut
+Sarpedon,Sarpedon,Trojan,kills,Pedasos,Pedasus,Greek,16.546,16,546,spear,horse
+Patroklos,Patroclus,Greek,kills,Sarpedon,Sarpedon,Trojan,16.559,16,559,spear,spear in the chest
+Hektor,Hector,Trojan,kills,Epeigeus,Epeigeus,Greek,16.666,16,666,rock,rock on the head
+Patroklos,Patroclus,Greek,kills,Sthenelaos,Sthenelaus,Trojan,16.682,16,682,rock,rock on the head
+Glaukos,Glaucus,Trojan,kills,Bathykles,Bathycles,Greek,16.691,16,691,spear,spear in the chest
+Meriones,Meriones,Greek,kills,Laogonos,Laogonus,Trojan,16.702,16,702,spear,spear in the jaw
+Patroklos,Patroclus,Greek,kills,Adrestos,Adrestus,Trojan,16.808,16,808,,
+Patroklos,Patroclus,Greek,kills,Autonoos,Autonous,Trojan,16.809,16,809,,
+Patroklos,Patroclus,Greek,kills,Ekheklos,Echeclus,Trojan,16.809,16,809,,
+Patroklos,Patroclus,Greek,kills,Perimos,Perimus,Trojan,16.809,16,809,,
+Patroklos,Patroclus,Greek,kills,Epistor,Epistor,Trojan,16.810,16,810,,
+Patroklos,Patroclus,Greek,kills,Melanippos,Melanippus,Trojan,16.810,16,810,,
+Patroklos,Patroclus,Greek,kills,Elasos,Elasus,Trojan,16.811,16,811,,
+Patroklos,Patroclus,Greek,kills,Moulios,Mulius,Trojan,16.811,16,811,,
+Patroklos,Patroclus,Greek,kills,Pylartes,Pylartes,Trojan,16.811,16,811,,
+Patroklos,Patroclus,Greek,kills,Kebriones,Cebriones,Trojan,16.859,16,859,rock,rock in the head
+Hektor,Hector,Trojan,kills,Patroklos,Patroclus,Greek,16.993,16,993,,
+Aias1,Ajax1,Greek,kills,Hippothoos,Hippothous,Trojan,17.377,17,377,spear,spear in the head
+Hektor,Hector,Trojan,kills,Skhedios,Schedius,Greek,17.393,17,393,spear,spear in the collar
+Aias1,Ajax1,Greek,kills,Phorkys,Phorcys,Trojan,17.399,17,399,spear,spear in the gut
+Aineias,Aeneas,Trojan,kills,Leioklitos,Leocritus,Greek,17.439,17,439,,
+Lykomedes,Lycomedes,Greek,kills,Apisaon,Apisaon,Trojan,17.443,17,443,,
+Automedon,Automedon,Greek,kills,Aretos,Aretus,Trojan,17.636,17,636,spear,spear in the gut
+Menelaos,Menelaus,Greek,kills,Podes,Podes,Trojan,17.704,17,704,spear,spear in the stomach
+Hektor,Hector,Trojan,kills,Koiranos,Coeranus,Greek,17.744,17,744,spear,spear in the head
+Akhilleus,Achilles,Greek,kills,Iphition,Iphition,Trojan,20.463,20,463,spear,spear in the head
+Akhilleus,Achilles,Greek,kills,Demoleon,Demoleon,Trojan,20.476,20,476,spear,spear in the head
+Akhilleus,Achilles,Greek,kills,Hippodamas,Hippodamas,Trojan,20.480,20,480,spear,spear in the back
+Akhilleus,Achilles,Greek,kills,Polydoros,Polydorus,Trojan,20.488,20,488,spear,spear in the back
+Akhilleus,Achilles,Greek,kills,Dryops,Dryops,Trojan,20.546,20,546,spear,"spear in the knee, sword thrust"
+Akhilleus,Achilles,Greek,kills,Demoukhos,Demuchus,Trojan,20.548,20,548,spear,spear thrust
+Akhilleus,Achilles,Greek,kills,Laogonos,Laogonus,Trojan,20.551,20,551,spear,spear thrust
+Akhilleus,Achilles,Greek,kills,Dardanos,Dardanus,Trojan,20.551,20,551,sword,sword thrust
+Akhilleus,Achilles,Greek,kills,Tros,Tros,Trojan,20.555,20,555,sword,sword in the liver
+Akhilleus,Achilles,Greek,kills,Moulios,Mulius,Trojan,20.567,20,567,spear,spear in the head
+Akhilleus,Achilles,Greek,kills,Ekheklos,Echeclus,Trojan,20.569,20,569,sword,sword on the head
+Akhilleus,Achilles,Greek,kills,Deukalion,Deucalion,Trojan,20.573,20,573,sword,sword in the neck
+Akhilleus,Achilles,Greek,kills,Rhigmos,Rhigmus,Trojan,20.581,20,581,spear,spear in the gut
+Akhilleus,Achilles,Greek,kills,Areithoos,Areithous,Trojan,20.586,20,586,spear,spear in the back
+Akhilleus,Achilles,Greek,kills,Lykaon,Lycaon,Trojan,21.138,21,138,sword,sword in the neck
+Akhilleus,Achilles,Greek,kills,Asteropaios,Asteropaeus,Trojan,21.215,21,215,sword,sword in the stomach
+Akhilleus,Achilles,Greek,kills,Thersilokhos,Thersilochus,Trojan,21.249,21,249,,
+Akhilleus,Achilles,Greek,kills,Mydon,Mydon,Trojan,21.249,21,249,,
+Akhilleus,Achilles,Greek,kills,Astypylos,Astypylus,Trojan,21.250,21,250,,
+Akhilleus,Achilles,Greek,kills,Mnesos,Mnesus,Trojan,21.250,21,250,,
+Akhilleus,Achilles,Greek,kills,Thrasios,Thrasius,Trojan,21.250,21,250,,
+Akhilleus,Achilles,Greek,kills,Ainios,Aenius,Trojan,21.250,21,250,,
+Akhilleus,Achilles,Greek,kills,Ophelestes,Ophelestes,Trojan,21.251,21,251,,
+Akhilleus,Achilles,Greek,kills,Hektor,Hector,Trojan,22.410,22,410,spear,spear through the throat
