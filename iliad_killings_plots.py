@@ -6,9 +6,14 @@ from scipy.optimize import curve_fit
 import seaborn as sns
 import os, inspect
 
-# csv based on data scraped from: https://www.thoughtco.com/deaths-in-the-iliad-121298
-# added classicifations (agent_type = 'Greek' | 'Trojan' )
-
+"""
+- csv based on data scraped from: http://johnstoniatexts.x10host.com/homer/iliaddeaths.htm 
+(cf. https://www.thoughtco.com/deaths-in-the-iliad-121298)
+- cleaned (mostly typos in names); extracted weapons used based on comments + 
+    supplied some missing (still definitily incomplete, though)
+- N.B. "line numbers refer to the on-line translation by Ian Johnston"
+"""
+ 
 csv_file = 'iliad_killings.csv'
 
 # get current dir
@@ -22,8 +27,13 @@ book_range = np.arange(1,25,1)
 # func to split data on agent_type and add cumsums
 def split_df_on_agent(df, book_range):
     
+    # group killings/woundings by book, agent
     actions = df.groupby(['book','agent_type','action'])['action'].count()
+    
+    # unstack multilevel index, and reset
     actions = actions.unstack(len(actions.index.levels)-1).reset_index()
+    
+    # add cumsum
     actions['cumsum_kills'] = actions.groupby('agent_type')['kills'].cumsum()
 
     # empty df to merge
@@ -31,6 +41,7 @@ def split_df_on_agent(df, book_range):
 
     list_dfs = list()
 
+    # create dfs for Greeks/Trojans only
     for agent in df.agent_type.unique():
         df_temp = actions.loc[actions.agent_type == agent,['book','kills',
                                  'cumsum_kills']].set_index('book', drop=True)
@@ -46,7 +57,9 @@ def split_df_on_agent(df, book_range):
 # call func to create df 'Greeks', 'Trojans'
 list_dfs = split_df_on_agent(df, book_range)
 
-# create plots:
+# =============================================================================
+# # create plots
+# =============================================================================
 
 # set use of seaborn
 sns.set()
@@ -105,20 +118,15 @@ quote = \
 """
 Δηΐφοβ’ ἦ ἄρα δή τι ἐΐσκομεν ἄξιον εἶναι
 τρεῖς ἑνὸς ἀντὶ πεφάσθαι; ἐπεὶ σύ περ εὔχεαι οὕτω.
-Deiphobos, do we now suppose perhaps that fair requital has been made
-—killing three men in exchange for one—since you boast in this way? (Il. 13.446-7)
+
+"Deiphobos, do we now suppose perhaps that fair requital has been made
+—killing three men in exchange for one—since you boast in this way?" — Idomeneus (Il. 13.446-7)
 """
 
 # plt.text(0,-10, teststr, fontsize=14)
-plt.gcf().text(0.1, 1, quote, fontsize=14)
+plt.gcf().text(0.1, 1, quote, fontsize=13)
 
 plt.xticks(book_range)
 plt.xlabel('books Iliad')
 plt.suptitle(f'killings in the Iliad (ratio {(store_popt[0] / store_popt[1])[0]:.2f}:1)')
-plt.show()
-
-ratio = list_dfs[0].iloc[:,1] / list_dfs[1].iloc[:,1]
-ratio.fillna(0, inplace=True)
-
-plt.plot(book_range, ratio)
 plt.show()
