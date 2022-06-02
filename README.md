@@ -6,6 +6,7 @@ with added cumulative sums to illustrate that the poet is adhering to a certain 
 ## Contents
 
 * [Data](#data)
+* [Result](#result)
 * [Relevance for study of referential patterns](#relevance-for-study-of-referential-patterns)
 * [Bibliography](#bibliography)
 * [Contact](#contact)
