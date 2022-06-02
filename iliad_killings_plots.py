@@ -123,7 +123,6 @@ quote = \
 —killing three men in exchange for one—since you boast in this way?" — Idomeneus (Il. 13.446-7)
 """
 
-# plt.text(0,-10, teststr, fontsize=14)
 plt.gcf().text(0.1, 1, quote, fontsize=13)
 
 plt.xticks(book_range)
